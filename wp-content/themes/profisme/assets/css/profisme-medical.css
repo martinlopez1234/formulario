@@ -1,0 +1,47 @@
+.layout-4 .project .overlay a i {
+    background-color: #ff8100 !important; 
+}
+.theme-banner:before {
+   background-color: rgba(0, 0, 0, 0.4);
+}
+.banner-content {
+    width: auto;
+	   font-size: 60px;
+}
+.banner-content {
+    margin-left: 600px;
+    max-width: 500px;
+	text-align:left;
+}
+.banner-content .btn-style-one
+{
+padding: 10px 30px 10px;
+border-radius: 36px;
+}
+.services-column p 
+{
+	text-align:center;
+}
+.sec-title h2:after {
+    font-family: fontAwesome;
+    content: '\f0f1' !important;
+}
+@media only screen and (max-width: 600px) {
+ .banner-content {
+   margin-left:initial;
+  }
+}
+.services-block .inner-box .icon-box, .table-cell {
+    display: block;
+}
+.services-block .inner-box .icon-box
+{
+	margin:auto;
+}
+.services-block .inner-box h3
+{
+	font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 25px;
+}

@@ -1,0 +1,26 @@
+.banner-content h2 {
+    font-size: 52px;
+    font-weight: 1000;
+}
+
+ 
+.services-block .inner-box .icon-box, .table-cell {
+    display: block;
+}
+.services-block .inner-box .icon-box
+{
+	margin:auto;
+}
+.services-block .inner-box h3
+{
+	font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 25px;
+}
+.banner-content {
+    text-align: left;
+	width:700px;
+	margin:0;
+} 
+ 

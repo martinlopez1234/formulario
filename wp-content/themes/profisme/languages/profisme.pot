@@ -1,0 +1,307 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"profisme\n"
+"POT-Creation-Date: "
+"2020-05-28 15:14+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.1.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Oops! That page can not "
+"be found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"Sorry, but the page you "
+"are looking for does not "
+"existing"
+msgstr ""
+
+#: 404.php:19
+#: inc/breadcrumb/breadcrumb.php:5
+msgid "Home"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid ""
+"<h2>%1$s Comment found"
+msgid_plural ""
+"%1$s comments</h2>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: footer.php:72
+msgid ""
+"Copyright 2020 . All "
+"right reserved"
+msgstr ""
+
+#: footer.php:75
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: footer.php:75
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:70
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:19
+msgid "Skip to content"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:3
+#: inc/breadcrumb/breadcrumb.php:6
+#: inc/customize/profisme-blog.php:22
+#: inc/customize/profisme-blog.php:113
+#: inc/customize/profisme-blog.php:167
+#: inc/customize/profisme-blog.php:224
+#: inc/customize/profisme-blog.php:258
+#: inc/customize/profisme-breadcrumb.php:31
+#: inc/customize/profisme-footer.php:28
+msgid "1"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:10
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:32
+#: inc/customize/profisme-blog.php:123
+#: inc/customize/profisme-blog.php:177
+#: inc/customize/profisme-blog.php:234
+#: inc/customize/profisme-blog.php:268
+#: inc/customize/profisme-footer.php:37
+msgid "Hide / Show Section"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:53
+msgid "Banner Button Text"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:71
+msgid "Banner Button Url"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:88
+msgid "Banner Page"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:101
+msgid "About Section"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:143
+msgid "About Page"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:155
+msgid "Service Section"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:198
+msgid "Service Page"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:212
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:246
+msgid "Client Section"
+msgstr ""
+
+#: inc/customize/profisme-blog.php:289
+msgid "Client Page"
+msgstr ""
+
+#: inc/customize/profisme-breadcrumb.php:12
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: inc/customize/profisme-breadcrumb.php:22
+msgid "Settings"
+msgstr ""
+
+#: inc/customize/profisme-breadcrumb.php:40
+msgid ""
+"Breadcrumb Hide/Show"
+msgstr ""
+
+#: inc/customize/profisme-footer.php:10
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customize/profisme-footer.php:17
+msgid "Copyright Content"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Homepage Section"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:20
+msgid ""
+"The Primary Widget Area"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:28
+msgid ""
+"Footer widget  area 1"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:30
+msgid "Footer First Column"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:38
+msgid ""
+"Footer widget  area 2"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:40
+msgid ""
+"Footer Second Column"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:48
+msgid ""
+"Footer widget  area 3"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:50
+msgid "Footer Third Column"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:58
+msgid ""
+"Footer Fourth Column"
+msgstr ""
+
+#: inc/sidebar/sidebar.php:60
+msgid ""
+"Footer widget area 4"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgctxt ""
+"list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:68
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: page.php:30
+#: sections/profisme-about.php:35
+#: sections/profisme-service.php:50
+#: single.php:44
+msgid "Pages:"
+msgstr ""
+
+#: sections/profisme-blog.php:10
+msgid "Recent Posts"
+msgstr ""
+
+#: sections/profisme-breadcrumb.php:10
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: sections/profisme-breadcrumb.php:14
+#, php-format
+msgid ""
+"Monthly Archives: %s"
+msgstr ""
+
+#: sections/profisme-breadcrumb.php:18
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: sections/profisme-breadcrumb.php:22
+#, php-format
+msgid ""
+"Category Archives: %s"
+msgstr ""
+
+#: sections/profisme-breadcrumb.php:26
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: sections/profisme-breadcrumb.php:30
+msgid "Error 404"
+msgstr ""
+
+#: sections/profisme-breadcrumb.php:34
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: sections/profisme-service.php:10
+msgid "Our Services"
+msgstr ""
+
+#: template-parts/content-search.php:36
+#: template-parts/content.php:35
+msgid "Read More"
+msgstr ""

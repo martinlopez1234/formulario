@@ -1,0 +1,98 @@
+/*!
+Theme Name: dreo
+Theme URI: 
+Author: themealley
+Author URI:
+Description: business theme by themealley.
+Version: 1.0.2
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: dreo
+Template: bizto
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+dreo is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+body,
+button,
+input,
+select,
+optgroup,
+textarea {
+	color: #dcdbdb;
+}
+
+a {
+	color: #ffffff;
+}
+
+a:visited {
+	color: #ffffff;
+}
+
+a:hover, a:focus, a:active {
+	color: #ffffff;
+}
+
+.outerContainer{
+	background:#5b5b5b;
+}
+
+.front-page-post{
+	background:rgba(0,0,0,0.15);
+}
+.front-page-post h2{
+	color: #ffffff;
+}
+
+.nav-links .nav-previous a,
+.nav-links .nav-next a{
+	color: #dcdbdb;
+}
+
+.widgetContainer{
+	background: rgba(0,0,0,0.15);
+}
+.widgetContainer .widget-title{
+	color: #dcdbdb;
+}
+.widgetContainer .widget-title span{
+	display: inline-block;
+	border-bottom: 7px solid rgba(0,0,0,0.10);
+	padding: 0 3em 0.4em 0;	
+}
+.widgetContainer a{
+	color: #dcdbdb;
+}
+.widgetContainer .search-field{
+	background:rgba(0,0,0,0.10);
+	color: #dcdbdb;
+}
+.widgetContainer .search-field:focus{
+	color: #dcdbdb;
+}
+.widgetContainer .search-submit{
+	color: #dcdbdb;
+}
+.widgetContainer select {
+	background:rgba(0,0,0,0.07);
+}
+
+.cat-links a,
+.tags-links a{
+	color: #ffffff;
+	border:1px solid rgba(255,255,255,0.50);	
+}
+
+.biztwo-item .biztwo-content h3 a,
+.bizone-item .bizone-content h3 a{
+	color: #ffffff;
+}
